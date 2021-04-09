@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TownLeague</string>
+    <string name="Activity_Row_Nombre">Nombre Equipo</string>
+    <string name="Activity_Row_Puntos">Puntos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LastName">lastName</string>
+</resources>
