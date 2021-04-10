@@ -15,14 +15,18 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:context=".lstTeam.view.Activity_detail"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:background="@drawable/bcg1">
 
 
         <TextView
             android:id="@+id/txtTeamName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="TextView" />
+            android:text="@string/TextVewJugadorEquipos"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="30sp"/>
 
         <androidx.recyclerview.widget.RecyclerView
             android:layout_width="match_parent"
