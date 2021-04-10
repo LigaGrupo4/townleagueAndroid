@@ -26,6 +26,7 @@
             android:layout_weight="1"
             android:text="@string/Activity_Row_Nombre"
             android:textSize="40sp"
+            android:layout_marginLeft="5dp"
             android:textColor="@color/white"/>
 
         <TextView
@@ -36,6 +37,7 @@
             android:text="@string/Activity_Row_Puntos"
             android:textSize="40sp"
             android:gravity="right"
+            android:layout_marginRight="5dp"
             android:textColor="@color/white"/>
 
 
